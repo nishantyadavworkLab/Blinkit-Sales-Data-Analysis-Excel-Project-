@@ -70,7 +70,7 @@ Project Screenshots:
 
 Dashboard Overview
 
-![Dashboard](screenshots/dashboard.png)
+![dashboard](dashboard.png)
 
 Key Insights:
 
